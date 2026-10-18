@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://hareeshchappidi.github.io/moneto-site/sitemap.xml
+Sitemap: https://laavi.in/sitemap.xml

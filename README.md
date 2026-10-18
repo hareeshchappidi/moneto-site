@@ -15,13 +15,13 @@ Plain HTML and CSS — no build step, no frameworks, no cookies, no analytics, n
 
 1. Repository **Settings → Pages**.
 2. **Source:** Deploy from a branch · **Branch:** `main` · **Folder:** `/ (root)` → Save.
-3. After a minute the site is live at **https://hareeshchappidi.github.io/moneto-site/**.
+3. After a minute the site is live at **https://laavi.in/**.
 
 URLs for App Store Connect:
 
-- Privacy Policy URL: `https://hareeshchappidi.github.io/moneto-site/privacy.html`
-- Support URL: `https://hareeshchappidi.github.io/moneto-site/support.html`
-- Marketing URL (optional): `https://hareeshchappidi.github.io/moneto-site/`
+- Privacy Policy URL: `https://laavi.in/privacy.html`
+- Support URL: `https://laavi.in/support.html`
+- Marketing URL (optional): `https://laavi.in/`
 
 ### Custom domain (optional)
 

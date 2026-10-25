@@ -31,7 +31,7 @@ absolute URLs in `robots.txt`, `sitemap.xml` and the `/moneto-site/` paths in `4
 ## Updating
 
 - **Screenshots** (`assets/screens/*.jpg`, 600 × 1300) are taken from the iOS Simulator with the sample data in US dollars,
-  avoiding screens that show the sample bank names.
+  with neutral account names (no real bank names): Home, Insights, Cash flow, Accounts, Activity and a PDF report.
 - **Icon** (`assets/icon-512.png`, `apple-touch-icon.png`, `favicon-64.png`) comes from the app’s
   `AppIcon-1024.png`.
 - Keep `privacy.html` in step with the app’s in-app privacy policy, and change the **Effective** date whenever it changes.

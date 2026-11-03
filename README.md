@@ -15,18 +15,18 @@ Plain HTML and CSS — no build step, no frameworks, no cookies, no analytics, n
 
 1. Repository **Settings → Pages**.
 2. **Source:** Deploy from a branch · **Branch:** `main` · **Folder:** `/ (root)` → Save.
-3. After a minute the site is live at **https://laavi.in/**.
+3. After a minute the site is live at **https://moneto.laavi.in/**.
 
 URLs for App Store Connect:
 
-- Privacy Policy URL: `https://laavi.in/privacy.html`
-- Support URL: `https://laavi.in/support.html`
-- Marketing URL (optional): `https://laavi.in/`
+- Privacy Policy URL: `https://moneto.laavi.in/privacy.html`
+- Support URL: `https://moneto.laavi.in/support.html`
+- Marketing URL (optional): `https://moneto.laavi.in/`
 
-### Custom domain (optional)
+### Custom domain
 
-Add a `CNAME` file containing the domain (e.g. `moneto.app`), point the domain’s DNS at GitHub Pages, and update the
-absolute URLs in `robots.txt`, `sitemap.xml` and the `/moneto-site/` paths in `404.html`.
+`CNAME` holds `moneto.laavi.in`. Its DNS needs a `CNAME` record for `moneto` pointing at `hareeshchappidi.github.io`.
+If the domain changes, update `CNAME`, the absolute URLs in `robots.txt` and `sitemap.xml`, and `AppInfo` in the app.
 
 ## Updating
 
